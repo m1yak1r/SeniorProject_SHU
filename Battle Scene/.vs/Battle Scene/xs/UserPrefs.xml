@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A87E4004-3234-0EA1-67FC-EE429DE5323F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScriptableObject Scripts/CharacterStats.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BattleController.cs" Line="224" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="25" Column="21" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/ScriptableObject Scripts/BaseSkill.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/ScriptableObject Scripts/BaseItem.cs" Line="5" Column="72" />
+      <File FileName="Assets/Scripts/ScriptableObject Scripts/CharacterStats.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Battle Scene" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScriptableObject Scripts" expanded="True">
+                  <Node name="CharacterStats.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="548548c3-7c48-44ae-abcf-ab952be1a9a6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
